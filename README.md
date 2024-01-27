@@ -1,6 +1,6 @@
 # Blog-post  App
 
-![Blog App ](/path/to/Blog-post -logo.png)
+ Demo : https://technical-assessment-blogs-app.vercel.app/ 
 
 ## Overview
 
