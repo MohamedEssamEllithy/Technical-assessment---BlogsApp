@@ -16,8 +16,9 @@ implement a sleek blog post website with a homepage featuring interactive articl
 - Formik
 - FontAwesome
 
+* [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
-* [![Typescript][typescript.js]][Vue-url]
+* [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
