@@ -1,0 +1,7 @@
+.login{
+    background-image: linear-gradient(to bottom right, #78a4ac,rgba(255, 255, 255, 0.785));
+}
+
+.login > div{
+    box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.296);
+}

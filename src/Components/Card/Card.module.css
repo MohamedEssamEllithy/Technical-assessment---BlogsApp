@@ -1,0 +1,39 @@
+
+
+*{
+    z-index: 2;
+}
+.content {
+  position: relative; 
+  transition: padding-top 0.3s;
+  &::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    border-radius: 9%;
+    background-color: #ffffff;
+    transform-origin: bottom; 
+    transform: scaleY(1.1); 
+    z-index: -1; 
+    opacity: 0; 
+    transition: transform 0.3s , opacity 0.3s; 
+  }
+}
+
+.card:hover .content::before{
+ transform: scaleY(1.15); 
+    opacity: 1; 
+    box-shadow: 0px -15px 30px -20px rgb(0, 0,0);
+}
+.card:hover .content{
+    padding-top: 0.5rem;
+}
+
+img{
+    z-index: -2;
+}
+
+

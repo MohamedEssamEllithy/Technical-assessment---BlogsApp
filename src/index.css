@@ -1,0 +1,11 @@
+
+  @tailwind base;
+  @tailwind components;
+  @tailwind utilities;
+
+nav a.active{
+  color: #78a4ac;
+  border: 1px solid #78a4ac;
+  
+}
+
