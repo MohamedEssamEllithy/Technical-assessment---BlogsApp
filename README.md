@@ -1,10 +1,10 @@
-# ReactBlog App
+# Blog-post  App
 
-![ReactBlog Logo](/path/to/reactblog-logo.png)
+![Blog App ](/path/to/Blog-post -logo.png)
 
 ## Overview
 
-The ReactBlog application is an advanced blogging platform that allows users to interact with blog articles. The app features a homepage with interactive article cards for easy navigation, a full blog page displaying the complete content of the user-selected post, and a secure login page for user access.
+implement a sleek blog post website with a homepage featuring interactive article cards for easy navigation, A full blog page that displays the full blog content of the post selected by the user, and a secure login page for user access.
 
 ## Technologies Used
 
@@ -15,7 +15,14 @@ The ReactBlog application is an advanced blogging platform that allows users to 
 - Yup
 - Formik
 - FontAwesome
-- Context API
+
+* [![React][React.js]][React-url]
+* [![Typescript][typescript.js]][Vue-url]
+* [![Angular][Angular.io]][Angular-url]
+* [![Svelte][Svelte.dev]][Svelte-url]
+* [![Laravel][Laravel.com]][Laravel-url]
+* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
+* [![JQuery][JQuery.com]][JQuery-url]
 
 ## Workflow
 
