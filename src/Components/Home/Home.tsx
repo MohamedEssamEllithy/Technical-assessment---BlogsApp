@@ -1,6 +1,5 @@
 import { useContext} from "react";
 import Card from "../Card/Card";
-import "./Home.module.css";
 import Post from "../../interface/post.interface.ts"
 import { postContext } from "../../context/postContext.tsx";
 
