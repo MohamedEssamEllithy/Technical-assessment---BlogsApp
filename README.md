@@ -1,10 +1,11 @@
-# Blog-post  App
+  ![Project Image](https://raw.githubusercontent.com/MohamedEssamEllithy/Technical-assessment---BlogsApp/master/src/assets/favicon.ico) 
+ # Blog-post  App
 
- Demo : https://technical-assessment-blogs-app.vercel.app/ 
+Demo : https://technical-assessment-blogs-app.vercel.app/   
 
 ## Overview
 
-Build a sleek blog post website with a homepage that includes interactive article cards for user-friendly navigation. Develop a complete blog page that showcases the selected post's full content and design a secure login page to provide user access.
+A sleek blog post website with a homepage that includes interactive article cards for user-friendly navigation, a complete blog page that showcases the selected post's full content and design a secure login page to provide user access.
 
 ## Technologies Used
 
@@ -18,7 +19,7 @@ Build a sleek blog post website with a homepage that includes interactive articl
 - Context API
 
 
-## Workflow
+## Project Structure :
 
 ### Home Component
 
@@ -27,6 +28,14 @@ The `Home` component is the main component, containing all article cards for an 
 ### Single Post Component
 
 The `Single Post` component provides a dedicated space to display the complete content of the selected article, offering a comprehensive reading experience for the user.
+
+### Card Component
+
+The `Card` component encapsulates the content structure for a single blog card, ensuring a consistent and elegant display.
+
+### Single Post Component
+
+The `Login` component houses the login form, requiring users to enter an email and password. Upon submission, it redirects to the home page.
 
 ### NotFound Component
 
